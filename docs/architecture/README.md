@@ -17,7 +17,7 @@ Enjoy your travels through the code and thank you for jumping in. We really look
           <td align="right" width="130">
              <a href="/src/prod/src/Management#management-subsystem"><img src="/docs/architecture/Images/Management_E.png" height="230" width="125" align="right" /></a>
           </td>
-          <td align="center" width="564">
+          <td align="center" width="500">
               <a href="/src/prod/src/Communication#communication-subsystem"><img src="/docs/architecture/Images/Communication_E.png" /></a> 
             <a href="/src/prod/src/Reliability#reliability-subsystem"><img src="/docs/architecture/Images/Reliability_E.png" /></a>  
               <a href="/src/prod/src/Hosting2#hosting-subsystem"><img src="/docs/architecture/Images/Hosting_E.png" /></a> 
